@@ -10,26 +10,31 @@ https://hub.docker.com/_/caddy?tab=description
 
 ## DNS
 
-caddy-dns/cloudflare \
-caddy-dns/dnspod \
-caddy-dns/gandi \
-caddy-dns/lego-deprecated \
+caddy-dns/cloudflare
+caddy-dns/dnspod
+caddy-dns/gandi
+caddy-dns/lego-deprecated
 caddy-dns/route53
-
-## Authentication
-
-greenpau/caddy-auth-jwt \
-greenpau/caddy-auth-portal \
-greenpau/caddy-trace
+caddy-dns/alidns
+caddy-dns/azure
+caddy-dns/digitalocean
+caddy-dns/duckdns
+caddy-dns/hetzner
+caddy-dns/openstack-designate
+caddy-dns/vultr
 
 ## Others
 
-caddyserver/ntlm-transport \
-abiosoft/hmac \
-lolPants/caddy-requestid \
-ueffel/caddy-brotli \
-caddyserver/replace-response \
+abiosoft/caddy-hmac
+lolPants/caddy-requestid
 mholt/caddy-webdav
+abiosoft/caddy-json-parse
+hslatman/caddy-crowdsec-bouncer    
+porech/caddy-maxmind-geolocation
+WeidiDeng/caddy-cloudflare-ip
+ueffel/caddy-brotli
+caddyserver/replace-response
+corazawaf/coraza-caddy/v2
 
 ### Please find LICENSE link for caddy below 
 
