@@ -34,6 +34,7 @@ porech/caddy-maxmind-geolocation \
 WeidiDeng/caddy-cloudflare-ip \
 ueffel/caddy-brotli \
 caddyserver/replace-response \
+coulsontl/auth-modifier \
 corazawaf/coraza-caddy/v2
 
 ### Please find LICENSE link for caddy below 
