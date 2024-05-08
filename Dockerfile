@@ -22,6 +22,7 @@ RUN xcaddy build \
     --with github.com/WeidiDeng/caddy-cloudflare-ip \
     --with github.com/ueffel/caddy-brotli \
     --with github.com/caddyserver/replace-response \
+    --with github.com/coulsontl/auth-modifier \
     --with github.com/corazawaf/coraza-caddy/v2
 
 FROM caddy:2.7.6-alpine
